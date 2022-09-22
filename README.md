@@ -1,0 +1,3 @@
+- 👋 Olá, meu nome é Davi Bandeira
+- 👀 Me interesso pela area de criação de sites
+- 🌱 Atualmente estou cursando T.I
