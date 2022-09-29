@@ -1,4 +1,7 @@
  <h1>Olá, meu nome é Davi Bandeira👦🏻💻</h1>
  <hr>
- Me interesso pela area de criação de sites <br>
-🌱 Atualmente estou cursando T.I
+ 
+ <h2>🖥Me interesso pela area de criação de sites</h2> <br>
+ <h2>📚Atualmente estou cursando T.I</h2>
+ <br>
+ 
