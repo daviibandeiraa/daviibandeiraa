@@ -1,12 +1,3 @@
- <h1>Olá, meu nome é Davi Bandeira👦🏻💻</h1>
- <hr>
- 
- <ul>
- 
- <li>🖥Me interesso pela area de criação de sites</li>
- <li>📚Atualmente estou cursando T.I</li>
- 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Bandeira;I'm+18+years+old;I'm+from+Brazil;I'm+Studying+Front-End+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
